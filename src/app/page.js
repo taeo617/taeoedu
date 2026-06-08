@@ -99,7 +99,6 @@ export default function Home() {
                             <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                         </svg>
                     </button>
-                    <Link href="/login" className="text-[13px] sm:text-[15px] font-bold transition-opacity hover:opacity-70 whitespace-nowrap">로그인</Link>
                     <a href="https://open.kakao.com/o/s74wGXki" target="_blank" rel="noopener noreferrer" className="btn-contact">Contact</a>
                     <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="mobile-menu-btn" aria-label="Toggle Menu">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
