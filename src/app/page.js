@@ -58,6 +58,7 @@ export default function Home() {
 
     return (
         <main>
+            <Script src="/canvas.js" strategy="lazyOnload" />
             <div id="intro-popup" className={`intro-popup ${!isPopupVisible ? 'hidden' : ''}`}>
                 <canvas id="popup-canvas" className="popup-canvas"></canvas>
                 <div className="popup-content">
