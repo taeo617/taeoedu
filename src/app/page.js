@@ -457,7 +457,7 @@ export default function Home() {
                     <div class="phase-upcoming">- 추가 업데이트 예정</div>
                 </div>
 
-                <div class="notice-banner">※ 4~5월 수강생 한정 : 실무 AI 디자인 원데이 워크샵 진행</div>
+                <div class="notice-banner">※ 6~7월 수강생 한정 : 실무 AI 디자인 원데이 워크샵 진행</div>
             </div>
         </div>
     </section>
